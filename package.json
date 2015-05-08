@@ -1,0 +1,27 @@
+{
+  "name": "tutcontacts",
+  "version": "1.0.0",
+  "description": "angular tutorial",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "bourne": "^0.4.0",
+    "express": "^4.12.3",
+    "express-session": "^1.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alextenche/tutcontacts.git"
+  },
+  "author": "Alex Tenche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alextenche/tutcontacts/issues"
+  },
+  "homepage": "https://github.com/alextenche/tutcontacts"
+}
